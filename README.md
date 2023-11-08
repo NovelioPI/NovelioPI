@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Novelio and I'm an Embedded Software Engineer, from Indonesia.</p>
+<p align="left">My name is Novelio and I'm an Embedded System and Machine Learning enthusiast, from Indonesia.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Resource Management for Arm-based Microcontroller<br>🎯 Goals: live in Europe and become a good educator<br>🎲 Fun fact: I love the beach 🏖️</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning LLM<br>🎯 Goals: live in Europe and become a good educator<br>🎲 Fun fact: I love beach 🏖️</p>
 
 ###
 
