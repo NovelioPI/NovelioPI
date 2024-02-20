@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning LLM<br>🎯 Goals: live in Europe and become a good educator<br>🎲 Fun fact: I love beach 🏖️</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning LLM<br>🎯 Goals: become a good educator<br>🎲 Fun fact: I love beach 🏖️</p>
 
 ###
 
